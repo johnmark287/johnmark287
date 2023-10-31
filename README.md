@@ -1,6 +1,6 @@
 # About me
 <header>
-Hi I'm Johnmark 👋. Welcome to GitHub.
+Hi I'm Johnmark 👋. Welcome to my GitHub.
 </header>
 <!--
 **johnmark287/johnmark287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
