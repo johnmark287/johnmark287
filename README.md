@@ -11,7 +11,7 @@
 # Activities.
 - 🔭 I’m currently working on frontend web developmment with React.
 
-- 👯 I’m looking to collaborate on ...
+<!-- - 👯 I’m looking to collaborate on ... -->
 
 
 
