@@ -6,7 +6,7 @@
  - https://instagram.com/johnmarkmuhando/
 
 # Skills.
-- ![Skills on C programming language](./images/C%20Programming%20Language%20Logo,%20HD%20Png%20Download%20,%20Transparent%20Png%20Image%20-%20PNGitem.jpeg/)
+- ![Skills on C programming language](./images/rsz_c_programming_language_logo_hd_png_download__transparent_png_image_-_pngitem.jpg)
 
 # Activities.
 - 🔭 I’m currently working on frontend web developmment with React.
