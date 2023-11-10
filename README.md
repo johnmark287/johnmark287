@@ -6,7 +6,7 @@
  - 
 
 # Skills.
-- ![Skills on C programming language](https://www.kindpng.com/imgv/hihxmxx_c-programming-language-logo-clipart-png-download-c/)
+- ![Skills on C programming language](./images/C%20Programming%20Language%20Logo,%20HD%20Png%20Download%20,%20Transparent%20Png%20Image%20-%20PNGitem.jpeg/)
 
 # Activities.
 - 🔭 I’m currently working on frontend web developmment with React.
