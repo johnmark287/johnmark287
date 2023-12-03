@@ -20,7 +20,7 @@
 
 # Activities.
 - 🔭 I’m currently working on frontend web developmment with React.
-- ⚡ Fun fact: Just realised codding is my new hobby. 
+- ⚡ Fun fact: Just realised coding is my new hobby. 
 - 👯 I’m looking to collaborate on backend development with django framework.
 
 <!--
