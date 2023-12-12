@@ -4,11 +4,11 @@
 <p>
     <a href="https://github.com/johnmark287/johnmark287">
     <img>
-</p>
 - Full stack web developer and software engineer in the making.
 - Interested in Web Development, Software Engineering, AI and Cyber security.
+</p>
 
- ## How to reach me:
+ # How to reach me:
 - https://instagram.com/johnmarkmuhando/
 - https://www.linkedin.com/in/johnmark-muhando-69a05b270/
 
