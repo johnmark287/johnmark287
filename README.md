@@ -13,11 +13,11 @@
 - https://www.linkedin.com/in/johnmark-muhando-69a05b270/
 
 # Skills.
-- ![C Programming.](./images/rsz_c_programming_language_logo_hd_png_download__transparent_png_image_-_pngitem.jpg)
-- ![Python.](./images/Python%20programming%20language%20icon.jpeg)
-- ![Java.](./images/Java%20programming%20language%20icon.jpeg)
-- ![C++](./images/The%20C++%20Programming%20Language%20Computer%20Programming%20Programmer%20PNG%20-%20Free%20Download.jpeg)
-- ![SQL](./images/Retro%20SQL%20Programming%20Language%20Icon%20Essential%20T-Shirt%20for%20Sale%20by%20Jam%20Jar.jpeg)
+- ![C Programming.]<!--(./images/rsz_c_programming_language_logo_hd_png_download__transparent_png_image_-_pngitem.jpg)-->
+- ![Python.]<!--(./images/Python%20programming%20language%20icon.jpeg)-->
+- ![Java.]<!--(./images/Java%20programming%20language%20icon.jpeg)-->
+- ![C++]<!--(./images/The%20C++%20Programming%20Language%20Computer%20Programming%20Programmer%20PNG%20-%20Free%20Download.jpeg)-->
+- ![SQL]<!--(./images/Retro%20SQL%20Programming%20Language%20Icon%20Essential%20T-Shirt%20for%20Sale%20by%20Jam%20Jar.jpeg)-->
 - JavaScript.
 - Django framework.
 
