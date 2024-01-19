@@ -1,12 +1,9 @@
 # About me.
 <strong>Hi I'm Johnmark 👋. Welcome to my GitHub.</strong>
  Hope you enjoy.
-<p>
-    <a href="https://github.com/johnmark287/johnmark287">
-    <img>
+ 
 - Full stack web developer and software engineer in the making.
 - Interested in Web Development, Software Engineering, AI and Cyber security.
-</p>
 
  # How to reach me:
 - https://instagram.com/johnmarkmuhando/
