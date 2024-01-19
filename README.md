@@ -5,12 +5,12 @@
 - Full stack web developer and software engineer in the making.
 - Interested in Web Development, Software Engineering, AI and Cyber security.
 
- # How to reach me:
+ # How to reach me
 - https://instagram.com/johnmarkmuhando/
 - https://www.linkedin.com/in/johnmark-muhando-69a05b270/
 - johnmarkmuhando23@gmail.com
 
-# Skills.
+# Skills
 - ![C Programming.]<!--(./images/rsz_c_programming_language_logo_hd_png_download__transparent_png_image_-_pngitem.jpg)-->
 - ![Python.]<!--(./images/Python%20programming%20language%20icon.jpeg)-->
 - ![Java.]<!--(./images/Java%20programming%20language%20icon.jpeg)-->
@@ -19,7 +19,7 @@
 - JavaScript.
 - Django framework.
 
-# Activities.
+# Activities
 - 🔭 I’m currently working on frontend web developmment with React.
 - ⚡ Fun fact: Just realised coding is my new hobby. 
 - 👯 I’m looking to collaborate on backend development with django framework.
