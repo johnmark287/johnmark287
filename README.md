@@ -6,7 +6,7 @@
 - Interested in Web Development, Software Engineering, AI and Cyber security.
 </p>
 
- # My Contacts
+ # How to Contact me
 - johnmarkmuhando23@gmail.com
 - https://www.linkedin.com/in/johnmark-muhando-69a05b270/
 
@@ -20,7 +20,7 @@
 - Django framework.
 
 # Activities
-- 🔭 I’m currently working on frontend web developmment with React.
+- 🔭 I’m currently working on backend web developmment with NextJS and Django seperately.
 - ⚡ Fun fact: Just realised coding is my new hobby. 
 - 👯 I’m looking to collaborate on backend development with django framework.
 
