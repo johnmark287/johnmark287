@@ -1,4 +1,5 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to++my+GitHub!;Have+fun.)](https://git.io/typing-svg)
+<img align="right" src="https://komarev.com/ghpvc/?username=johnmark287" alt="views" />
 # About me.
 **Hi I'm Johnmark ✨.**
 
@@ -25,6 +26,7 @@
 
 
 # Github status
+![GitHub followers](https://img.shields.io/github/followers/johnmark287)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnmark287&show_icons=true&theme=radical)
 
