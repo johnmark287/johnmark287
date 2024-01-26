@@ -1,10 +1,9 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to++my+GitHub!;Have+fun.)](https://git.io/typing-svg)
 # About me.
 **Hi I'm Johnmark ✨.**
-<p>
- Full stack web developer and software engineer in the making.
-- Interested in Web Development, Software Engineering, AI and Cyber security.
-</p>
+
+- Full stack web developer and software engineer in the making.
+- Tech enthusiast interested in Web Development, Software Engineering, AI and Cyber security.
 
  # How to Contact me
 - johnmarkmuhando23@gmail.com
