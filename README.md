@@ -3,14 +3,13 @@
  Hope you enjoy.
  
 - Full stack web developer and software engineer in the making.
-- Interested in Web Development, Software Engineering, AI and Cyber security.
+- Tech enthusiast interested in Web Development, Software Engineering, AI and Cyber security.
 
  # How to reach me
-- https://instagram.com/johnmarkmuhando/
-- https://www.linkedin.com/in/johnmark-muhando-69a05b270/
 - johnmarkmuhando23@gmail.com
+- https://www.linkedin.com/in/johnmark-muhando-69a05b270/
 
-# Skills
+# Skills Set
 - ![C Programming.]<!--(./images/rsz_c_programming_language_logo_hd_png_download__transparent_png_image_-_pngitem.jpg)-->
 - ![Python.]<!--(./images/Python%20programming%20language%20icon.jpeg)-->
 - ![Java.]<!--(./images/Java%20programming%20language%20icon.jpeg)-->
