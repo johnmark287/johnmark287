@@ -1,38 +1,21 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to++my+GitHub!;Have+fun.)](https://git.io/typing-svg)
 # About me.
-<<<<<<< HEAD
-<strong>Hi I'm Johnmark 👋. Welcome to my GitHub.</strong>
- Hope you enjoy.
- 
-- Full stack web developer and software engineer in the making.
-- Tech enthusiast interested in Web Development, Software Engineering, AI and Cyber security.
-=======
 **Hi I'm Johnmark 👋.**
 <p>
  Full stack web developer and software engineer in the making.
 - Interested in Web Development, Software Engineering, AI and Cyber security.
 </p>
->>>>>>> features
 
  # How to reach me
 - johnmarkmuhando23@gmail.com
 - https://www.linkedin.com/in/johnmark-muhando-69a05b270/
 
-<<<<<<< HEAD
 # Skills Set
 - ![C Programming.]<!--(./images/rsz_c_programming_language_logo_hd_png_download__transparent_png_image_-_pngitem.jpg)-->
 - ![Python.]<!--(./images/Python%20programming%20language%20icon.jpeg)-->
 - ![Java.]<!--(./images/Java%20programming%20language%20icon.jpeg)-->
 - ![C++]<!--(./images/The%20C++%20Programming%20Language%20Computer%20Programming%20Programmer%20PNG%20-%20Free%20Download.jpeg)-->
 - ![SQL]<!--(./images/Retro%20SQL%20Programming%20Language%20Icon%20Essential%20T-Shirt%20for%20Sale%20by%20Jam%20Jar.jpeg)-->
-=======
-# Skills Set.
-- C Programming
-- Python
-- Java
-- C++
-- SQL
->>>>>>> features
 - JavaScript.
 - Django framework.
 
