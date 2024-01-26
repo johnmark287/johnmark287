@@ -7,7 +7,7 @@
 
  # How to Contact me
 - johnmarkmuhando23@gmail.com
-- https://www.linkedin.com/in/johnmark-muhando-69a05b270/
+- [![LinkedIn](https://icons8.com/icon/xuvGCOXi8Wyg/linkedin)](https://www.linkedin.com/in/johnmark-muhando-69a05b270/)
 
 # Skills Set
 - C Programming
