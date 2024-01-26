@@ -31,6 +31,7 @@
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dancoon&theme=radical)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Adi%C3%B3s%2C+%22mucho+gusto%22.;%F0%9F%98%81)](https://git.io/typing-svg)
 <!--
 **johnmark287/johnmark287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
