@@ -1,21 +1,21 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to++my+GitHub!;Have+fun.)](https://git.io/typing-svg)
 # About me.
-**Hi I'm Johnmark 👋.**
+**Hi I'm Johnmark ✨.**
 <p>
  Full stack web developer and software engineer in the making.
 - Interested in Web Development, Software Engineering, AI and Cyber security.
 </p>
 
- # How to reach me
+ # My Contacts
 - johnmarkmuhando23@gmail.com
 - https://www.linkedin.com/in/johnmark-muhando-69a05b270/
 
 # Skills Set
-- ![C Programming.]<!--(./images/rsz_c_programming_language_logo_hd_png_download__transparent_png_image_-_pngitem.jpg)-->
-- ![Python.]<!--(./images/Python%20programming%20language%20icon.jpeg)-->
-- ![Java.]<!--(./images/Java%20programming%20language%20icon.jpeg)-->
-- ![C++]<!--(./images/The%20C++%20Programming%20Language%20Computer%20Programming%20Programmer%20PNG%20-%20Free%20Download.jpeg)-->
-- ![SQL]<!--(./images/Retro%20SQL%20Programming%20Language%20Icon%20Essential%20T-Shirt%20for%20Sale%20by%20Jam%20Jar.jpeg)-->
+- C Programming
+- Python
+- Java
+- C++
+- SQL
 - JavaScript.
 - Django framework.
 
@@ -30,10 +30,12 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnmark287&show_icons=true&theme=radical)
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dancoon&theme=radical)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmark287&theme=radical)
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Adi%C3%B3s%2C+%22mucho+gusto%22.;%F0%9F%98%81)](https://git.io/typing-svg)
 <!--
-**johnmark287/johnmark287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**johnmark287/johnmark287** is a 👋 _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
