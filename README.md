@@ -1,5 +1,24 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to++my+GitHub!;Have+fun.)](https://git.io/typing-svg)
-<img align="right" src="https://komarev.com/ghpvc/?username=johnmark287" alt="views" />
+
+<div>
+ <a>
+  <img src="https://img.shields.io/badge/Twitter-black?logo=twitter
+" />
+ </a>
+ <a>
+  <img src="https://img.shields.io/badge/Instagram-black?logo=instagram
+" />
+ </a>
+ <a>
+  <img src="https://img.shields.io/badge/LinkedIn-black?logo=linkedin
+" />
+ </a>
+ 
+</div>
+
+<div>
+ <img align="right" src="https://komarev.com/ghpvc/?username=johnmark287" alt="views" />
+</div>
 # About me.
 **Hi I'm Johnmark ✨.**
 
