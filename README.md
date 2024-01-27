@@ -50,10 +50,7 @@
 </div>
 - C Programming
 - Python
-- Java
 - C++
-- SQL
-- JavaScript.
 - Django framework.
 
 # Activities
