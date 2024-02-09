@@ -8,7 +8,7 @@
     <a>
         <img src="https://img.shields.io/badge/Twitter-black?logo=twitter" />
     </a>
-    <a>
+    <a href="https://www.instagram.com/_muhando_/">
         <img src="https://img.shields.io/badge/Instagram-black?logo=instagram" />
     </a>
     <a href="https://www.linkedin.com/in/johnmark-muhando-69a05b270/">
