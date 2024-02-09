@@ -54,7 +54,7 @@
 - Django framework.
 
 # Activities
-- 🔭 I’m currently working on backend web developmment: `![DevTube](https://github.com/johnmark287/DevTube)` with Django  and `![The Hive](https://github.com/johnmark287/hive-property-listing-service)` with Express.
+- 🔭 I’m currently working on backend web developmment: `[![DevTube](https://github.com/johnmark287/DevTube)]` with Django  and `[![The Hive](https://github.com/johnmark287/hive-property-listing-service)]` with Express.
 - ⚡ Fun fact: Just realised coding is my new hobby. <!-- Add link to AirJordan repo -->
 - 👯 I’m looking to collaborate on backend development with django framework.
 
