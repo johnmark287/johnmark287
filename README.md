@@ -45,18 +45,25 @@
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+<!-- 
+
+Add icon for the following:
+
 - C Programming
 - Python
 - C++
 - Django framework.
 
+-->
 # Activities
 - 🔭 I’m currently working on backend web developmment: <a href="https://github.com/johnmark287/DevTube">`Devtube`</a> with Django  and <a href="https://github.com/johnmark287/hive-property-listing-service">`The Hive`</a> with Express.
 - ⚡ Fun fact: Just realised coding is my new hobby. <!-- Add link to AirJordan repo -->
 - 👯 I’m looking to collaborate on backend development with django framework.
 
 
-<!-- # Github status
+<!-- 
+# Github status
 ![GitHub followers](https://img.shields.io/github/followers/johnmark287)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnmark287&show_icons=true&theme=radical)
