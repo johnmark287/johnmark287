@@ -25,10 +25,7 @@
 
 - Full stack web developer and software engineer in the making.
 - Tech enthusiast interested in Web Development, Software Engineering, AI and Cyber security.
-
- # How to Contact me
-- johnmarkmuhando23@gmail.com
-- https://www.linkedin.com/in/johnmark-muhando-69a05b270/
+- Contact me at johnmarkmuhando23@gmail.com
 
 # Skills Set
 <div>
