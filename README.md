@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-    <a>
+    <a href="https://twitter.com/MuhandoJohnmark">
         <img src="https://img.shields.io/badge/Twitter-black?logo=twitter" />
     </a>
     <a href="https://www.instagram.com/_muhando_/">
