@@ -20,8 +20,8 @@
  <img align="right" src="https://komarev.com/ghpvc/?username=johnmark287" alt="views" />
 </div>
 
-# About me.
- -Hi ✨ I'm Johnmark Muhando.
+# About me
+- Hi ✨ I'm Johnmark Muhando.
 - Currently pursuing BSc. in Mathematics and Computer Science at JKUAT.
 - Full stack web developer and software engineer in the making.
 - Tech enthusiast interested in Web Development, Software Engineering, AI and Cyber security.
@@ -51,21 +51,21 @@
 - Django framework.
 
 # Activities
-- 🔭 I’m currently working on backend web developmment: `[![DevTube](https://github.com/johnmark287/DevTube)]` with Django  and `[![The Hive](https://github.com/johnmark287/hive-property-listing-service)]` with Express.
+- 🔭 I’m currently working on backend web developmment: <!-- `[![DevTube](https://github.com/johnmark287/DevTube)]` --> <a href="https://github.com/johnmark287/DevTube">`Devtube`</a> with Django  and <!-- `[![The Hive](https://github.com/johnmark287/hive-property-listing-service)]` --> <a href="https://github.com/johnmark287/hive-property-listing-service">`The Hive`</a> with Express.
 - ⚡ Fun fact: Just realised coding is my new hobby. <!-- Add link to AirJordan repo -->
 - 👯 I’m looking to collaborate on backend development with django framework.
 
 
-# Github status
+<!-- # Github status
 ![GitHub followers](https://img.shields.io/github/followers/johnmark287)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnmark287&show_icons=true&theme=radical)
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmark287&theme=radical)
+-->
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Adi%C3%B3s%2C+%22mucho+gusto%22.;%F0%9F%98%81)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Adi%C3%B3s%2C+%22mucho+gusto%22.;%F0%9F%98%81)](https://git.io/typing-svg) 
 <!--
 **johnmark287/johnmark287** is a 👋 _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
