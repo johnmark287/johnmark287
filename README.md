@@ -5,13 +5,13 @@
 </div>
 
 <div align="center">
-    <a href="https://twitter.com/MuhandoJohnmark">
+    <a href="https://twitter.com/MuhandoJohnmark" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-black?logo=twitter" />
     </a>
-    <a href="https://www.instagram.com/_muhando_/">
+    <a href="https://www.instagram.com/_muhando_/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-black?logo=instagram" />
     </a>
-    <a href="https://www.linkedin.com/in/johnmark-muhando-69a05b270/">
+    <a href="https://www.linkedin.com/in/johnmark-muhando-69a05b270/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-black?logo=linkedin" />
     </a>
 </div>
