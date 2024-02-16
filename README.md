@@ -5,13 +5,13 @@
 </div>
 
 <div align="center">
-    <a>
+    <a href="https://twitter.com/MuhandoJohnmark" target="_blank">
         <img src="https://img.shields.io/badge/Twitter-black?logo=twitter" />
     </a>
-    <a>
+    <a href="https://www.instagram.com/_muhando_/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-black?logo=instagram" />
     </a>
-    <a href="https://www.linkedin.com/in/johnmark-muhando-69a05b270/">
+    <a href="https://www.linkedin.com/in/johnmark-muhando-69a05b270/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-black?logo=linkedin" />
     </a>
 </div>
@@ -20,15 +20,12 @@
  <img align="right" src="https://komarev.com/ghpvc/?username=johnmark287" alt="views" />
 </div>
 
-# About me.
-**Hi I'm Johnmark ✨.**
-
+# About me
+- Hi ✨ I'm Johnmark Muhando.
+- Currently pursuing BSc. in Mathematics and Computer Science at JKUAT.
 - Full stack web developer and software engineer in the making.
 - Tech enthusiast interested in Web Development, Software Engineering, AI and Cyber security.
-
- # How to Contact me
-- johnmarkmuhando23@gmail.com
-- https://www.linkedin.com/in/johnmark-muhando-69a05b270/
+- Contact me at johnmarkmuhando23@gmail.com
 
 # Skills Set
 <div>
@@ -48,17 +45,24 @@
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+<!-- 
+
+Add icon for the following:
+
 - C Programming
 - Python
 - C++
 - Django framework.
 
+-->
 # Activities
-- 🔭 I’m currently working on backend web developmment with NextJS and Django seperately.
-- ⚡ Fun fact: Just realised coding is my new hobby. 
+- 🔭 I’m currently working on backend web developmment: <a href="https://github.com/johnmark287/DevTube">`Devtube`</a> with Django  and <a href="https://github.com/johnmark287/hive-property-listing-service">`The Hive`</a> with Express.
+- ⚡ Fun fact: Just realised coding is my new hobby. <!-- Add link to AirJordan repo -->
 - 👯 I’m looking to collaborate on backend development with django framework.
 
 
+<!-- 
 # Github status
 ![GitHub followers](https://img.shields.io/github/followers/johnmark287)
 
@@ -66,9 +70,9 @@
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmark287&theme=radical)
+-->
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Adi%C3%B3s%2C+%22mucho+gusto%22.;%F0%9F%98%81)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Adi%C3%B3s%2C+%22mucho+gusto%22.;%F0%9F%98%81)](https://git.io/typing-svg) 
 <!--
 **johnmark287/johnmark287** is a 👋 _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
