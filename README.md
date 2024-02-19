@@ -21,7 +21,7 @@
 </div>
 
 # About me
-- Hi ✨ I'm Johnmark Muhando.
+- Hi ✨ I'm <strong>Johnmark Muhando.</strong>
 - Currently pursuing BSc. in Mathematics and Computer Science at JKUAT.
 - Full stack web developer and software engineer in the making.
 - Tech enthusiast interested in Web Development, Software Engineering, AI and Cyber security.
