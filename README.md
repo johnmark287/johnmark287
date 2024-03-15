@@ -25,7 +25,7 @@
 - Currently pursuing BSc. in Mathematics and Computer Science at JKUAT.
 - Full stack web developer and software engineer in the making.
 - Tech enthusiast interested in Web Development, Software Engineering, AI and Cyber security.
-- Contact me at `johnmarkmuhando23@gmail.com`
+- Contact me at <a href="mailto:johnmarkmuhando23@gmail.com">`Email Address`</a>
 
 # Tech Stack 🗡
 <div>
@@ -57,9 +57,9 @@ Add icon for the following:
 
 -->
 # Activities ♢
-- 🔭 I’m currently working on backend web developmment  <!--: <a href="https://github.com/johnmark287/DevTube">`Devtube`</a> with Django  and <a href="https://github.com/johnmark287/hive-property-listing-service">`The Hive`</a> with Express. -->
-- ⚡ Fun fact: Just realised coding is my new hobby. 😝 <!-- Add link to AirJordan repo -->
-- 👯 I’m looking to collaborate on backend API development with django rest framework.
+- 🔭 I’m currently working on AI ChatBot <!--: <a href="https://github.com/johnmark287/DevTube">`Devtube`</a> with Django  and <a href="https://github.com/johnmark287/hive-property-listing-service">`The Hive`</a> with Express. -->
+- ⚡ Fun fact: Just realised coding is my new hobby and I know what you're thinking. 😝 <!-- Add link to AirJordan repo -->
+- 👯 I’m looking to collaborate on backend API development with django rest framework and any AI Projects.
 
 
 <!-- 
