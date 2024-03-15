@@ -3,8 +3,21 @@
 <div align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWxoenRjbzB6a3c3aDNzajZjMHljbG9xcTFmMG1maGo3ZDRsamtsdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding" width="100" />
 </div>
-<h1>Socials ♤</h1>
+<div>
+ <img align="right" src="https://komarev.com/ghpvc/?username=johnmark287" alt="views" />
+</div>
+
+# About me ♤
+- Helloo ✨ I'm <strong>Johnmark Muhando.</strong>
+- Currently pursuing BSc. in Mathematics and Computer Science at JKUAT.
+- Full stack web developer and software engineer in the making.
+- Tech enthusiast interested in Web Development, Software Engineering, AI and Cyber security.
+- Contact me at <a href="mailto:johnmarkmuhando23@gmail.com">`Email Address`</a>
+
+# Socials ♧
+
 <div align="left">
+     <p>Let's connect. Follow me on social media.</p>
     <a href="https://www.linkedin.com/in/johnmark-muhando-69a05b270/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-black?logo=linkedin" />
     </a>
@@ -16,19 +29,9 @@
     </a>
 </div>
 
-<div>
- <img align="right" src="https://komarev.com/ghpvc/?username=johnmark287" alt="views" />
-</div>
-
-# About me ♧
-- Hi ✨ I'm <strong>Johnmark Muhando.</strong>
-- Currently pursuing BSc. in Mathematics and Computer Science at JKUAT.
-- Full stack web developer and software engineer in the making.
-- Tech enthusiast interested in Web Development, Software Engineering, AI and Cyber security.
-- Contact me at <a href="mailto:johnmarkmuhando23@gmail.com">`Email Address`</a>
-
 # Tech Stack 🗡
 <div>
+  <p>Skills and tools.</p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp; -->
@@ -57,7 +60,7 @@ Add icon for the following:
 
 -->
 # Activities ♢
-- 🔭 I’m currently working on AI ChatBot <!--: <a href="https://github.com/johnmark287/DevTube">`Devtube`</a> with Django  and <a href="https://github.com/johnmark287/hive-property-listing-service">`The Hive`</a> with Express. -->
+- 🔭 I’m currently working on an AI ChatBot. <!--: <a href="https://github.com/johnmark287/DevTube">`Devtube`</a> with Django  and <a href="https://github.com/johnmark287/hive-property-listing-service">`The Hive`</a> with Express. -->
 - ⚡ Fun fact: Just realised coding is my new hobby and I know what you're thinking. 😝 <!-- Add link to AirJordan repo -->
 - 👯 I’m looking to collaborate on backend API development with django rest framework and any AI Projects.
 
