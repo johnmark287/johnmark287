@@ -1,3 +1,4 @@
+## Helloo ✨ I'm <strong>Johnmark Muhando.</strong>
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to++my+GitHub!;Have+fun.)](https://git.io/typing-svg)
 
 <div align="center">
@@ -8,30 +9,22 @@
 </div>
 
 # About me ♤
-- Helloo ✨ I'm <strong>Johnmark Muhando.</strong>
 - Currently pursuing BSc. in Mathematics and Computer Science at JKUAT.
 - Full stack web developer and software engineer in the making.
 - Tech enthusiast interested in Web Development, Software Engineering, AI and Cyber security.
-- Contact me at <a href="mailto:johnmarkmuhando23@gmail.com">`Email Address`</a>
 
-# Socials ♧
+# Contact ♧
 
 <div align="left">
-     <p>Let's connect. Follow me on social media.</p>
-    <a href="https://www.linkedin.com/in/johnmark-muhando-69a05b270/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-black?logo=linkedin" />
-    </a>
-    <a href="https://twitter.com/MuhandoJohnmark" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-black?logo=twitter" />
-    </a>
-    <a href="https://www.instagram.com/_muhando_/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-black?logo=instagram" />
-    </a>
+ <ul>
+     <li>Phone: +2547 03 405035</li>
+     <li>Email: <a href="mailto:johnmarkmuhando23@gmail.com">Johnmark Muhando</a></li>
+     <li>LinkedIn: <a href="https://www.linkedin.com/in/muhando-johnmark/">Johnmark Muhando</a></li>
+ </ul>
 </div>
 
 # Tech Stack 🗡
 <div>
-  <p>Skills and tools.</p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp; -->
