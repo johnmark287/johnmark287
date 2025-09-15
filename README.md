@@ -53,9 +53,9 @@ Add icon for the following:
 
 -->
 # Activities ♢
-- 🔭 I’m currently working on an AI ChatBot. <!--: <a href="https://github.com/johnmark287/DevTube">`Devtube`</a> with Django  and <a href="https://github.com/johnmark287/hive-property-listing-service">`The Hive`</a> with Express. -->
+- 🔭 I’m currently working on Task management app.<!--: <a href="https://github.com/johnmark287/DevTube">`Devtube`</a> with Django  and <a href="https://github.com/johnmark287/hive-property-listing-service">`The Hive`</a> with Express. -->
 - ⚡ Fun fact: Just realised coding is my new hobby and I know what you're thinking. 😝 <!-- Add link to AirJordan repo -->
-- 👯 I’m looking to collaborate on backend API development with django rest framework and any AI Projects.
+- 👯 I’m looking to collaborate on backend API development with django rest framework.
 
 
 <!-- 
